@@ -46,7 +46,7 @@ class _AnimeState extends State<Anime> {
         Container(
           alignment: Alignment.topCenter,
           padding: EdgeInsets.only(
-              top: MediaQuery.of(context).size.height * .90,
+              top: MediaQuery.of(context).size.height * .100,
               right: 20,
               left: 20),
           child: Container(
